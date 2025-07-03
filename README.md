@@ -97,9 +97,9 @@ python main.py
 
 Puedes incluir una captura de pantalla así:
 
-```md
+
 ![Captura del juego](assets/image.png)
-```
+
 
 ---
 
