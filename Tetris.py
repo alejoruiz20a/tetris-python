@@ -101,7 +101,7 @@ def dibujarVentana(pantalla,matriz,grid):
     
     fuente = pygame.font.SysFont('timesnewroman',60)
     fuente2 = pygame.font.SysFont('timesnewroman',20)
-    label = fuente.render("POLETRIS",1,"red")
+    label = fuente.render("TETRIS",1,"red")
     labelDev = fuente2.render("Dev: Alejandro Amador",1,"white")
     
     pantalla.blit(label,(INICIAL_X + ANCHO_JUEGO/2 - (label.get_width()/2),15))
